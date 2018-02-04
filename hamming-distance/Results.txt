@@ -1,0 +1,4 @@
+Solution was succesful.
+
+
+Run java leetcode.hamming.Solution
